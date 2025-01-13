@@ -1,0 +1,35 @@
+
+ body{
+      background-image: url(https://imgs.search.brave.com/5oXg_uSM9nL0nSrzq-Gl9-AWvGo_gVRvbS21pevVkr8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9h/YnN0cmFjdC1kYXJr/LWJsdWUtZnV0dXJp/c3RpYy1kaWdpdGFs/LWdyaWQtYmFja2dy/b3VuZF81Mzg3Ni0x/MDQwNTEuanBnP3Nl/bXQ9YWlzX2h5YnJp/ZA);
+      background-size:cover;
+    }
+    form{
+     color: white;
+    }
+    h2{
+     color: gold;
+    }
+    p{color: white;}
+    span
+    {
+     color: white;
+    }
+    select{
+     background-color:firebrick;
+     color: white;
+    }
+    button{
+      width: 9%;
+      margin-left: .3%;
+      margin-top: .3%;
+      border-radius: 1rem;
+      border: none;
+      outline: none;
+    }
+    .box
+    {
+      border-radius: .4rem;
+      border: none;
+      outline: none;
+    }
+
